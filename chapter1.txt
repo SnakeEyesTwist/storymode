@@ -1,0 +1,3 @@
+Welcome to Github.
+Be strong!
+Git commands and repos are easy peesee
